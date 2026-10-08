@@ -1,6 +1,6 @@
 # Isack Ochieng
 
-### Ethical Hacker • Pentester • Full-Stack Developer • CyberOps Associate
+### Ethical Hacker | Pentester | Full-Stack Developer | CyberOps Associate
 
 I build, secure, and deploy software systems with a security-first mindset. My work sits at the intersection of cybersecurity, full-stack engineering, product development, and technology for real-world impact.
 
@@ -38,14 +38,15 @@ I believe security should be considered during development, not added after depl
 ## Featured Work
 
 ### [My Roomie](https://myroomie.site)
-A roommate matching platform built around compatibility, trust, and better campus living. It is explicitly a roommate platform, not a dating product.
+A roommate matching platform built around compatibility, trust, and better campus living. It is explicitly a roommate platform meant for Students.
+Available both as an app in playstore and a website
 
-**Stack:** React · TypeScript · TanStack Start · Supabase · Cloudflare · Capacitor
+**Stack:** React · TypeScript · TanStack Start · MongoDB· Cloudflare · Flutter · Dart
 
 ### [MiyaraTrader](https://miyaratrader.pages.dev/dashboard)
 A cloud trading workspace built around Deriv and Supabase, covering market discovery, technical analysis, risk controls, backtesting, trade management, and bot architecture.
 
-**Stack:** React · TanStack Start · Supabase · Deriv API · TradingView Lightweight Charts · Cloudflare
+**Stack:** React · TanStack Start · Atlas · Deriv API · TradingView Lightweight Charts · Cloudflare
 
 ### [MindGuard](https://play.google.com/store/apps/details?id=com.mindguard.app)
 An Android content-filtering application using local DNS decisions and Android VPN APIs to block configured harmful domains without TLS inspection or browsing-content telemetry.
@@ -142,8 +143,7 @@ I am interested in technology, leadership, cybersecurity, innovation, human righ
 - **Credly:** https://www.credly.com/users/isack-ochieng-omondi/badges#credly
 - **LinkedIn:** https://www.linkedin.com/in/isack-ochieng
 - **GitHub:** https://github.com/isack-ochieng
-- **Sauti Ya Jamii Media:** https://sautiyajamiimedia.co.ke/
 
 <p align="center">
-  <sub>Build deliberately. Secure by design. Ship useful things.</sub>
+  <sub>Thank you for stopping by, next time feel free to reach out  .</sub>
 </p>
