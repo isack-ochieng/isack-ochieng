@@ -38,7 +38,7 @@ I believe security should be considered during development, not added after depl
 ## Featured Work
 
 ### [My Roomie](https://myroomie.site)
-A student-focused roommate matching platform built around compatibility, trust, and better campus living. It is explicitly a roommate platform, not a dating product.
+A roommate matching platform built around compatibility, trust, and better campus living. It is explicitly a roommate platform, not a dating product.
 
 **Stack:** React · TypeScript · TanStack Start · Supabase · Cloudflare · Capacitor
 
