@@ -6,9 +6,8 @@ I build software, study cybersecurity, and turn ideas into working products.
 
 I'm  currently a **Computer Science student at Maasai Mara University** with a strong interest in **cybersecurity, full-stack engineering, digital products, leadership, and technology for social impact**.
 
-Looking to work at google 😁
 
-> **Build boldly. Secure deliberately. Learn continuously.**
+> **Looking to work at google 😁.**
 
 ---
 
