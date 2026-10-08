@@ -1,4 +1,4 @@
-# Isack Ochieng
+# Hi 👋🏾 I'm Isack Ochieng
 
 ### Ethical Hacker | Pentester | Full-Stack Developer | CyberOps Associate
 
