@@ -6,7 +6,7 @@ I build, secure and deploy software systems with a security-first mindset. My wo
 
 <p align="center">
   <a href="https://isack-ochieng.pages.dev">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3200&pause=900&color=22C55E&center=true&vCenter=true&width=720&lines=Welcome+to+my+profile%7C+I'm+Isack+Ochieng;Full-Stack+Developer+%7C+CyberOps+Associate;Building+secure+systems+and+real-world+products" alt="Typing introduction" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3200&pause=900&color=22C55E&center=true&vCenter=true&width=720&lines=Welcome+to+my+profile,+I'm+Isack+Ochieng;Full-Stack+Developer+%7C+CyberOps+Associate;Building+secure+systems+and+real-world+products" alt="Typing introduction" />
   </a>
 </p>
 
