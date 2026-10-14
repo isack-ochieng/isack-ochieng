@@ -56,6 +56,13 @@ An Android content-filtering application using local DNS decisions and Android V
 ### [Sauti Ya Jamii Media](https://sautiyajamiimedia.co.ke/)
 A community-focused media initiative built around the principle **“We Amplify Voices.”**
 
+### [Resu-Me-A-Job](https://resu-me-a-job.pages.dev/)
+A free, AI-assisted resume and cover-letter builder designed to help people create polished, professional application documents. It includes live previews, editable AI writing improvements powered by Google Gemini, and PDF export. The project is currently under active development; its source repository will be made public when it is ready.
+
+**Stack:** React · TypeScript · Vite · Google Gemini API · Cloudflare Pages · Pages Functions · jsPDF
+
+> Potential employers: if the resume I sent you looks polished, just know I built it using this tool. Yes, I use my own products.
+
 ---
 
 ## Selected Certifications & Verification
