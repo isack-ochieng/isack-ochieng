@@ -43,8 +43,10 @@ Available both as an app in playstore and a website
 
 **Stack:** React · TypeScript · TanStack Start · MongoDB· Cloudflare · Flutter · Dart
 
-### [MiyaraTrader](https://miyaratrader.pages.dev/dashboard)
+### [Miyara Traders](https://miyaratrader.pages.dev/dashboard)
 A cloud trading workspace built around Deriv and Supabase, covering market discovery, technical analysis, risk controls, backtesting, trade management, and bot architecture.
+
+**Currently free to use:** I’m focusing on growing the community, learning from real users, and making practical trading tools more accessible.
 
 **Stack:** React · TanStack Start · Atlas · Deriv API · TradingView Lightweight Charts · Cloudflare
 
@@ -62,6 +64,22 @@ A free, AI-assisted resume and cover-letter builder designed to help people crea
 **Stack:** React · TypeScript · Vite · Google Gemini API · Cloudflare Pages · Pages Functions · jsPDF
 
 > Potential employers: if the resume I sent you looks polished, just know I built it using this tool. Yes, I use my own products.
+
+---
+
+## The Footprint Behind My Free Software
+
+<p align="center">
+  <img src="./siteimage.png" alt="The footprint mark I use across my free software projects" width="160" />
+</p>
+
+That footprint is more than a logo. It represents the mark I hope to leave on the world through technology.
+
+When I create and share software for free, I want it to be a practical way of giving back: a tool that helps someone solve a problem, opens a door, or inspires another person to build something of their own. I believe meaningful technology should not only be measured by what it earns, but also by the people it reaches and the problems it helps solve.
+
+That is why I use this footprint across the free software I create. Every project is another small step toward the legacy I want to leave in tech — **useful work, shared value, and a positive impact that continues beyond me.**
+
+**I’m not just trying to publish code. I’m trying to leave a mark.**
 
 ---
 
