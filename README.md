@@ -19,15 +19,6 @@
 <table>
 <tr>
 <td width="84%" valign="middle">
-
-<strong>THE DIGITAL FOOTPRINT I WANT TO LEAVE</strong><br />
-I see free software as part of the digital footprint I want to leave: useful tools, shared knowledge, and technology that stays accessible to the people who need it.
-
-</td>
-<td width="16%" align="right" valign="middle">
-<img src="./assets/digital-footprint.svg" width="56" alt="Gold footprints representing a lasting digital legacy" />
-</td>
-</tr>
 </table>
 
 ---
@@ -36,20 +27,19 @@ I see free software as part of the digital footprint I want to leave: useful too
 <tr>
 <td width="33%" valign="top">
 
-<strong>01 / BUILD</strong><br />
-Web and mobile products that solve real problems.
+<strong>Full-Stack Development<br />
+I've built numerous dynamics websites and Apps. I do everything , from dns management up to playstore publishing
+</td>
+<td width="33%" valign="top">
+
+<strong>Cyber Security & Pentesting<br />
+I've participated in stuff such as hack the box , i've built custom scripts and with consent can initiate pentest a system
 
 </td>
 <td width="33%" valign="top">
 
-<strong>02 / SECURE</strong><br />
-Security-first engineering and authorized defensive security.
-
-</td>
-<td width="33%" valign="top">
-
-<strong>03 / SHIP</strong><br />
-From architecture and implementation to deployment.
+<strong>Tutor & Mentor</strong><br />
+Im passionate about learning from others and sharing knowledge , i offer one to one mentoring 
 
 </td>
 </tr>
@@ -146,6 +136,14 @@ A digital publishing platform with a CMS, AI-assisted news polishing, and SEO-fo
 ---
 
 <div align="center">
+<strong>THE DIGITAL FOOTPRINT I WANT TO LEAVE</strong><br />
+I appreciate free softwares and those who build it , the likes of Linus Torvald<a href"https://github.com/torvalds" /a>, I also try to follow on their footsteps , I use this logo on the free softwares that i build to represent the footprint am trying to leave
+
+</td>
+<td width="16%" align="right" valign="middle">
+<img src="siteimage.png" width="56" alt="A lasting digital legacy" />
+</td>
+</tr>
 
 **Curious about the work?**<br />
 <a href="https://isack-ochieng.pages.dev"><img src="https://img.shields.io/badge/Portfolio-Explore-B47721?style=flat-square&amp;labelColor=252334" alt="Explore portfolio" /></a>
