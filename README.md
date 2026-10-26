@@ -143,7 +143,7 @@ I admire the people who build and share free software, including <a href="https:
 
 </td>
 <td width="18%" align="right" valign="middle">
-<img src="https://raw.githubusercontent.com/isack-ochieng/isack-ochieng/main/assets/digital-footprint.svg" width="92" alt="Gold footprints representing a lasting digital legacy" />
+<img src="https://raw.githubusercontent.com/isack-ochieng/isack-ochieng/main/siteimage.png" width="92" alt="Isack Ochieng’s digital footprint logo" />
 </td>
 </tr>
 </table>
