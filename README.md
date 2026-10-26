@@ -1,18 +1,16 @@
-<div align="left">
+ <div align="left">
 
-# Hi I'm Isack Ochieng
+# Hi, I'm Isack Ochieng👋🏾.
 
-<p> I'm a <a href="https://readme-typing-svg.demolab.com/demo/"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2600&pause=700&color=8B7CFF&center=true&vCenter=true&width=720&height=38&lines=FULL-STACK+DEVELOPER;ETHICAL+HACKER+%C2%B7+PENTESTER;TUTOR+%C2%B7+TECHNOLOGY+MENTOR;CYBEROPS+ASSOCIATE+%C2%B7+SECURITY+MINDED" alt="Full-stack developer · Product builder; Ethical hacker · Pentester; Tutor · Technology mentor; CyberOps associate · Security minded" /></a> </p>  
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2600&pause=900&color=8B7CFF&vCenter=true&width=750&height=38&lines=I'm+a+Full-Stack+Developer;I'm+an+Ethical+Hacker+and+A+Penetration+Tester;I'm+a+CyberOps+Associate;I'm+a+Tutor+and+Mentor;I'm+a+Software+Engineer" alt="I'm a Full-Stack Developer · I'm an Ethical Hacker and A Penetration Tester · I'm a CyberOps Associate · I'm a Tutor and a Mentor · I'm a Software Engineer" />
 
- <p> know more about me on <a href="https://isack-ochieng.pages.dev">Portfolio</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/isack-ochieng">LinkedIn</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.credly.com/users/isack-ochieng-omondi/badges#credly">Credentials</a>
-  &nbsp;·&nbsp;
-  </p>
 
+
+**Explore my work:** [Portfolio](https://isack-ochieng.pages.dev) · [LinkedIn](https://www.linkedin.com/in/isack-ochieng) · [Credentials](https://www.credly.com/users/isack-ochieng-omondi/badges#credly) 
 </div>
+
+---
+---
 
 ---
 
@@ -83,10 +81,18 @@ A free resume and cover-letter builder with editable AI writing assistance, live
 <sub>React · TypeScript · Gemini API · Cloudflare</sub>
 
 </td>
+<td width="50%" valign="top">
+
+<h3><a href="https://sautiyajamiimedia.co.ke/">05 — Sauti Ya Jamii Media</a></h3>
+
+A new publishing site , with cms ai powered for polishing news 
+
+<sub>React · TypeScript · Gemini API · Cloudflare . SEO </sub>
+
+</td>
 </tr>
 </table>
 
-**Also:** [Sauti Ya Jamii Media](https://sautiyajamiimedia.co.ke/) — *We Amplify Voices.*
 
 ## Stack
 
@@ -132,6 +138,6 @@ A free resume and cover-letter builder with editable AI writing assistance, live
 
 **Curious about the work?** Start with the [portfolio](https://isack-ochieng.pages.dev) or connect on [LinkedIn](https://www.linkedin.com/in/isack-ochieng).
 
-<sub>Built with intention · Kenya</sub>
+<sub>Thanks for passing by</sub>
 
 </div>
