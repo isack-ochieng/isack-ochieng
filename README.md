@@ -1,8 +1,8 @@
-<div align="center">
+<div align="right">
 
-# ISACK OCHIENG
+#Hi I'm Isack Ochieng
 
-<a href="https://readme-typing-svg.demolab.com/demo/"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2600&pause=700&color=8B7CFF&center=true&vCenter=true&width=720&height=38&lines=FULL-STACK+DEVELOPER+%C2%B7+PRODUCT+BUILDER;ETHICAL+HACKER+%C2%B7+PENTESTER;TUTOR+%C2%B7+TECHNOLOGY+MENTOR;CYBEROPS+ASSOCIATE+%C2%B7+SECURITY+MINDED" alt="Full-stack developer · Product builder; Ethical hacker · Pentester; Tutor · Technology mentor; CyberOps associate · Security minded" /></a>
+<a href="https://readme-typing-svg.demolab.com/demo/"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2600&pause=700&color=8B7CFF&center=true&vCenter=true&width=720&height=38&lines=FULL-STACK+DEVELOPER;ETHICAL+HACKER+%C2%B7+PENTESTER;TUTOR+%C2%B7+TECHNOLOGY+MENTOR;CYBEROPS+ASSOCIATE+%C2%B7+SECURITY+MINDED" alt="Full-stack developer · Product builder; Ethical hacker · Pentester; Tutor · Technology mentor; CyberOps associate · Security minded" /></a>
 
 I build useful digital products, ship them to real users, and think about security before it becomes an afterthought.
 
