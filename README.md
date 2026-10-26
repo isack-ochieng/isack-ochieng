@@ -43,56 +43,53 @@ From architecture and implementation to deployment.
 <tr>
 <td width="50%" valign="top">
 
-<h3><a href="https://myroomie.site">01 — My Roomie ↗</a></h3>
-
-Student roommate matching built around compatibility, trust, and better campus living.
-
-<sub>React · TypeScript · Supabase · Cloudflare · Capacitor</sub>
-
-<br /><a href="https://play.google.com/store/apps/details?id=site.myroomie.app">Android app</a>
+<strong><a href="https://myroomie.site">01 — My Roomie ↗</a></strong><br />
+Student roommate matching built around compatibility, trust, and better campus living.<br />
+<sub>React · TypeScript · Supabase · Capacitor</sub><br />
+<a href="https://play.google.com/store/apps/details?id=site.myroomie.app">Android app</a>
 
 </td>
 <td width="50%" valign="top">
 
-<h3><a href="https://miyaratrader.pages.dev/dashboard">02 — Miyara Traders ↗</a></h3>
-
-A Deriv-connected trading workspace for market analysis, trade management, risk controls, and bot development.
-
-<sub>React · TypeScript · Supabase · Deriv API · Cloudflare</sub>
+<strong><a href="https://vip-nexus-rides.pages.dev/">02 — Nexus VIP Rides ↗</a></strong><br />
+A non-emergency medical transportation (NEMT) platform designed to coordinate trips, drivers, and operational workflows.<br />
+<sub>React · TypeScript · Supabase · Cloudflare · Capacitor</sub>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<h3><a href="https://play.google.com/store/apps/details?id=com.mindguard.app">03 — MindGuard ↗</a></h3>
-
-An Android DNS-filtering app designed to block configured harmful domains without TLS inspection or browsing-content telemetry.
-
-<sub>Flutter · Dart · Kotlin · Android VPN APIs</sub>
+<strong><a href="https://miyaratrader.pages.dev/dashboard">03 — Miyara Traders ↗</a></strong><br />
+A Deriv-connected trading workspace with market tools, trade management, risk controls, and bot development.<br />
+<sub>React · TypeScript · Supabase · Deriv API</sub>
 
 </td>
 <td width="50%" valign="top">
 
-<h3><a href="https://resu-me-a-job.pages.dev/">04 — Resu-Me-A-Job ↗</a></h3>
+<strong><a href="https://play.google.com/store/apps/details?id=com.mindguard.app">04 — MindGuard ↗</a></strong><br />
+An Android DNS-filtering app that blocks configured harmful domains without TLS inspection or browsing-content telemetry.<br />
+<sub>Flutter · Dart · Kotlin · Android VPN APIs</sub>
 
-A free resume and cover-letter builder with editable AI writing assistance, live previews, and PDF export.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
+<strong><a href="https://resu-me-a-job.pages.dev/">05 — Resu-Me-A-Job ↗</a></strong><br />
+A free resume and cover-letter builder with AI writing assistance, live previews, and PDF export.<br />
 <sub>React · TypeScript · Gemini API · Cloudflare</sub>
 
 </td>
 <td width="50%" valign="top">
 
-<h3><a href="https://sautiyajamiimedia.co.ke/">05 — Sauti Ya Jamii Media</a></h3>
-
-A new publishing site , with cms ai powered for polishing news 
-
-<sub>React · TypeScript · Gemini API · Cloudflare . SEO </sub>
+<strong><a href="https://sautiyajamiimedia.co.ke/">06 — Sauti Ya Jamii Media ↗</a></strong><br />
+A digital publishing platform with a CMS, AI-assisted news polishing, and SEO-focused publishing workflows.<br />
+<sub>React · TypeScript · Gemini API · Cloudflare · SEO</sub>
 
 </td>
 </tr>
 </table>
-
 
 ## Stack
 
