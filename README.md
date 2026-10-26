@@ -6,10 +6,15 @@
 
 I build useful digital products, ship them to real users, and think about security before it becomes an afterthought.
 
-<a href="https://isack-ochieng.pages.dev"><img src="https://img.shields.io/badge/PORTFOLIO-6D5DFB?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/isack-ochieng"><img src="https://img.shields.io/badge/LINKEDIN-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://www.credly.com/users/isack-ochieng-omondi/badges#credly"><img src="https://img.shields.io/badge/CREDENTIALS-0891B2?style=for-the-badge&logo=credly&logoColor=white" alt="Credentials" /></a>
-<a href="https://github.com/isack-ochieng"><img src="https://img.shields.io/badge/GITHUB-334155?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<p>
+  <a href="https://isack-ochieng.pages.dev">Portfolio</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/isack-ochieng">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.credly.com/users/isack-ochieng-omondi/badges#credly">Credentials</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/isack-ochieng">GitHub</a>
+</p>
 
 </div>
 
