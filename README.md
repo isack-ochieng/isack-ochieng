@@ -2,7 +2,7 @@
 
 # Hi, I'm Isack Ochieng 👋🏾
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=18&amp;duration=2600&amp;pause=900&amp;color=8B7CFF&amp;vCenter=true&amp;width=780&amp;height=38&amp;lines=I'm+a+Full-Stack+Developer;I'm+an+Ethical+Hacker+%26+Penetration+Tester;I'm+a+CyberOps+Associate;I'm+a+Technology+Tutor+%26+Mentor;I'm+a+Software+Engineer" alt="I'm a Full-Stack Developer · I'm an Ethical Hacker and Penetration Tester · I'm a CyberOps Associate · I'm a Technology Tutor and Mentor · I'm a Software Engineer" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=18&amp;duration=2600&amp;pause=900&amp;color=8B7CFF&amp;vCenter=true&amp;width=780&amp;height=38&amp;lines=I'm+a+Full-Stack+Developer;I'm+an+Ethical+Hacker+%26+a+Penetration+Tester;I'm+a+CyberOps+Associate;I'm+a+Tutor+%26+a+Mentor;I'm+a+Software+Engineer" alt="I'm a Full-Stack Developer · I'm an Ethical Hacker and a Penetration Tester · I'm a CyberOps Associate · I'm a Tutor and a Mentor · I'm a Software Engineer" />
 
 <p>
   <a href="https://isack-ochieng.pages.dev"><img src="https://img.shields.io/badge/Portfolio-Visit%20site-B47721?style=flat-square&amp;labelColor=252334" alt="Portfolio — Visit site" /></a>
@@ -149,11 +149,7 @@ I admire the people who build and share free software, including <a href="https:
 </table>
 
 <div align="center">
-
-**Curious about the work?**<br />
-<a href="https://isack-ochieng.pages.dev"><img src="https://img.shields.io/badge/Portfolio-Explore-B47721?style=flat-square&amp;labelColor=252334" alt="Explore portfolio" /></a>
-<a href="https://www.linkedin.com/in/isack-ochieng"><img src="https://img.shields.io/badge/LinkedIn-Connect-B47721?style=flat-square&amp;labelColor=252334" alt="Connect on LinkedIn" /></a>
-
-<sub>Thanks for passing by · Built with intention in Kenya</sub>
+  
+<sub>Thanks for passing by 🇰🇪</sub>
 
 </div>
