@@ -16,30 +16,29 @@
 
 </div>
 
-<table>
-<tr>
-<td width="84%" valign="middle">
-</table>
-
 ---
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-<strong>Full-Stack Development<br />
-I've built numerous dynamics websites and Apps. I do everything , from dns management up to playstore publishing
-</td>
-<td width="33%" valign="top">
+<strong>Full-Stack Development</strong>
 
-<strong>Cyber Security & Pentesting<br />
-I've participated in stuff such as hack the box , i've built custom scripts and with consent can initiate pentest a system
+I build and ship dynamic websites and apps end to end—from DNS and deployment to database integration and publishing Android apps on Google Play.
 
 </td>
 <td width="33%" valign="top">
 
-<strong>Tutor & Mentor</strong><br />
-Im passionate about learning from others and sharing knowledge , i offer one to one mentoring 
+<strong>Cybersecurity &amp; Penetration Testing</strong>
+
+I practise in hands-on labs such as Hack The Box, write custom security scripts, and carry out penetration testing only with explicit authorisation.
+
+</td>
+<td width="33%" valign="top">
+
+<strong>Tutoring &amp; Mentorship</strong>
+
+I enjoy learning with others and sharing what I know through one-to-one mentoring, technical guidance, and collaborative problem-solving.
 
 </td>
 </tr>
@@ -104,19 +103,19 @@ A digital publishing platform with a CMS, AI-assisted news polishing, and SEO-fo
 | AREA | TOOLS |
 |:--|:--|
 | **Frontend** | `React` · `TypeScript` · `JavaScript` · `TanStack Start` |
-| **Backend & data** | `Supabase` · `PostgreSQL` · `MongoDB` · `Firebase` · `Node.js` |
+| **Backend &amp; data** | `Supabase` · `PostgreSQL` · `MongoDB` · `Firebase` · `Node.js` |
 | **Mobile** | `Capacitor` · `Flutter` · `Dart` · `Kotlin` · `Android` |
-| **Security & systems** | `Ethical hacking` · `Pentesting` · `Threat analysis` · `Python` · `C++` |
+| **Security &amp; systems** | `Ethical hacking` · `Pentesting` · `Threat analysis` · `Python` · `C++` |
 | **Delivery** | `Git` · `GitHub` · `Cloudflare` · `CI/CD` |
 
 ## GitHub, in numbers
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=isack-ochieng&show_icons=true&hide_border=true&rank_icon=github&theme=gruvbox" alt="Isack's GitHub statistics" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=isack-ochieng&hide_border=true&theme=gruvbox" alt="Isack's GitHub contribution streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=isack-ochieng&amp;show_icons=true&amp;hide_border=true&amp;rank_icon=github&amp;theme=gruvbox" alt="Isack's GitHub statistics" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=isack-ochieng&amp;hide_border=true&amp;theme=gruvbox" alt="Isack's GitHub contribution streak" />
 </div>
 
-## Certifications & credentials
+## Certifications &amp; credentials
 
 **20+ certifications and credentials** across cybersecurity, cloud, data, software development, blockchain, and leadership.
 
@@ -125,7 +124,7 @@ A digital publishing platform with a CMS, AI-assisted news polishing, and SEO-fo
 | Ethical Hacker | Cisco / ParoCyber | <a href="https://www.credly.com/badges/9c9899c6-c664-44dc-b609-e256eed4d1a9/public_url"><img src="https://img.shields.io/badge/View-badge-B47721?style=flat-square&amp;labelColor=252334" alt="View Ethical Hacker badge" /></a> |
 | Cyber Threat Management | Cisco Networking Academy | <a href="https://www.credly.com/badges/7a67b538-8de0-4ca0-a533-181a26463edd/public_url"><img src="https://img.shields.io/badge/View-badge-B47721?style=flat-square&amp;labelColor=252334" alt="View Cyber Threat Management badge" /></a> |
 | Introduction to Cybersecurity | Cisco Networking Academy | <a href="https://www.credly.com/badges/511b4a69-3fd4-4585-a142-bae7605dcdba/public_url"><img src="https://img.shields.io/badge/View-badge-B47721?style=flat-square&amp;labelColor=252334" alt="View Introduction to Cybersecurity badge" /></a> |
-| Cybersecurity & Emerging Technologies | ICT Authority of Kenya — Cyber Shujaa | <a href="https://training.smartacademy.go.ke/certificate-verification/?certificate_id=ICTA-1766148663-5632-37843"><img src="https://img.shields.io/badge/Verify-certificate-B47721?style=flat-square&amp;labelColor=252334" alt="Verify Cybersecurity and Emerging Technologies certificate" /></a> |
+| Cybersecurity &amp; Emerging Technologies | ICT Authority of Kenya — Cyber Shujaa | <a href="https://training.smartacademy.go.ke/certificate-verification/?certificate_id=ICTA-1766148663-5632-37843"><img src="https://img.shields.io/badge/Verify-certificate-B47721?style=flat-square&amp;labelColor=252334" alt="Verify Cybersecurity and Emerging Technologies certificate" /></a> |
 | Fundamentals of Cloud Infrastructure | Pathway Technologies | <a href="https://training.smartacademy.go.ke/certificate-verification/?certificate_id=ICTA-1768306765-5649-37843"><img src="https://img.shields.io/badge/Verify-certificate-B47721?style=flat-square&amp;labelColor=252334" alt="Verify Fundamentals of Cloud Infrastructure certificate" /></a> |
 | Data Analytics Training | ICT Authority of Kenya — DataBreed Africa | <a href="https://training.smartacademy.go.ke/certificate-verification/?certificate_id=ICTA-1764571302-5453-37843"><img src="https://img.shields.io/badge/Verify-certificate-B47721?style=flat-square&amp;labelColor=252334" alt="Verify Data Analytics Training certificate" /></a> |
 | Effective Leadership | HP LIFE | <a href="https://www.life-global.org/certificate/fa082e87-702f-49bb-8605-2673f95aedad"><img src="https://img.shields.io/badge/Verify-certificate-B47721?style=flat-square&amp;labelColor=252334" alt="Verify Effective Leadership certificate" /></a> |
@@ -135,20 +134,26 @@ A digital publishing platform with a CMS, AI-assisted news polishing, and SEO-fo
 
 ---
 
-<div align="center">
+<table>
+<tr>
+<td width="82%" valign="middle">
+
 <strong>THE DIGITAL FOOTPRINT I WANT TO LEAVE</strong><br />
-I appreciate free softwares and those who build it , the likes of Linus Torvald<a href"https://github.com/torvalds" /a>, I also try to follow on their footsteps , I use this logo on the free softwares that i build to represent the footprint am trying to leave
+I admire the people who build and share free software, including <a href="https://github.com/torvalds">Linus Torvalds</a>. Their work shows that technology can outlive its creator and empower others. I use this footprint mark on the free software I build as a reminder of the legacy I want to leave: useful tools, shared knowledge, and technology that others can build on.
 
 </td>
-<td width="16%" align="right" valign="middle">
-<img src="siteimage.png" width="56" alt="A lasting digital legacy" />
+<td width="18%" align="right" valign="middle">
+<img src="https://raw.githubusercontent.com/isack-ochieng/isack-ochieng/main/assets/digital-footprint.svg" width="92" alt="Gold footprints representing a lasting digital legacy" />
 </td>
 </tr>
+</table>
+
+<div align="center">
 
 **Curious about the work?**<br />
 <a href="https://isack-ochieng.pages.dev"><img src="https://img.shields.io/badge/Portfolio-Explore-B47721?style=flat-square&amp;labelColor=252334" alt="Explore portfolio" /></a>
 <a href="https://www.linkedin.com/in/isack-ochieng"><img src="https://img.shields.io/badge/LinkedIn-Connect-B47721?style=flat-square&amp;labelColor=252334" alt="Connect on LinkedIn" /></a>
 
-<sub>Thanks for passing by</sub>
+<sub>Thanks for passing by · Built with intention in Kenya</sub>
 
 </div>
