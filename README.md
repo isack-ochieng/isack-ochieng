@@ -1,174 +1,76 @@
-# Hello 👋🏾 I'm Isack Ochieng
-
-### Ethical Hacker | Pentester | Full-Stack Developer | CyberOps Associate
-
-I build, secure and deploy software systems with a security-first mindset. My work sits at the intersection of cybersecurity, full-stack engineering, product development, and technology for real-world impact.
-
+<!-- A compact, visual-first profile: projects first, details when they matter. -->
 <p align="center">
-  <a href="https://isack-ochieng.pages.dev">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3200&pause=900&color=22C55E&center=true&vCenter=true&width=720&lines=Welcome+to+my+profile,+I'm+Isack+Ochieng;Full-Stack+Developer+%7C+CyberOps+Associate;Building+secure+systems+and+real-world+products" alt="Typing introduction" />
-  </a>
+  <img src="./profile-hero.svg" alt="Isack Ochieng — Full-stack developer and cybersecurity practitioner. Useful products, thoughtful engineering, security from day one." width="100%" />
 </p>
 
 <p align="center">
   <a href="https://isack-ochieng.pages.dev">Portfolio</a>
-  ·
-  <a href="https://www.credly.com/users/isack-ochieng-omondi/badges#credly">Credly</a>
-  ·
+  &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/isack-ochieng">LinkedIn</a>
-  ·
+  &nbsp;·&nbsp;
+  <a href="https://www.credly.com/users/isack-ochieng-omondi/badges#credly">Verified credentials</a>
+  &nbsp;·&nbsp;
   <a href="https://github.com/isack-ochieng">GitHub</a>
 </p>
 
----
+I build web and mobile products end-to-end, with a security-first mindset. I care about shipping useful software—and understanding how it can fail before someone else finds out.
 
-## Focus
+## Selected work
 
-| Area | What I work on |
-|---|---|
-| **Cybersecurity** | Ethical hacking, penetration testing, vulnerability assessment, threat analysis, security architecture, defensive security |
-| **Software Engineering** | React, TypeScript, Node.js, APIs, Supabase, PostgreSQL, MongoDB, Android |
-| **Product Building** | Architecture, implementation, deployment, integrations, and turning ideas into working products |
-| **Technology & Impact** | Community-focused products, digital services, leadership, human-rights and African development initiatives |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong><a href="https://myroomie.site">01 / MY ROOMIE ↗</a></strong><br><br>
+      A student roommate-matching product focused on compatibility and better campus living.<br><br>
+      <sub>React · TypeScript · Supabase · Cloudflare · Capacitor</sub><br>
+      <sub><a href="https://play.google.com/store/apps/details?id=site.myroomie.app">Android app</a></sub>
+    </td>
+    <td width="50%" valign="top">
+      <strong><a href="https://miyaratrader.pages.dev/dashboard">02 / MIYARA TRADERS ↗</a></strong><br><br>
+      A Deriv-connected trading workspace for market analysis, trade management, and risk-aware automation.<br><br>
+      <sub>React · TypeScript · Supabase · Deriv API · Cloudflare</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong><a href="https://play.google.com/store/apps/details?id=com.mindguard.app">03 / MINDGUARD ↗</a></strong><br><br>
+      An Android DNS-filtering app that blocks configured harmful domains without TLS inspection or browsing-content telemetry.<br><br>
+      <sub>Flutter · Dart · Kotlin · Android VPN APIs</sub>
+    </td>
+    <td width="50%" valign="top">
+      <strong><a href="https://resu-me-a-job.pages.dev/">04 / RESU-ME-A-JOB ↗</a></strong><br><br>
+      A free resume and cover-letter builder with editable AI writing support, live previews, and PDF export.<br><br>
+      <sub>React · TypeScript · Gemini API · Cloudflare</sub>
+    </td>
+  </tr>
+</table>
 
-I believe security should be considered during development, not added after deployment.
+Also building around communities: **[Sauti Ya Jamii Media](https://sautiyajamiimedia.co.ke/)** — *We Amplify Voices.*
 
----
+## Tools I reach for
 
-## Featured Work
-
-### [My Roomie](https://myroomie.site)
-A roommate matching platform built around compatibility, trust, and better campus living. It is explicitly a roommate platform meant for Students.
-Available both as an app in playstore and a website
-
-**Stack:** React · TypeScript · TanStack Start · MongoDB· Cloudflare · Flutter · Dart
-
-### [Miyara Traders](https://miyaratrader.pages.dev/dashboard)
-A cloud trading workspace built around Deriv and Supabase, covering market discovery, technical analysis, risk controls, backtesting, trade management, and bot architecture.
-
-**Currently free to use:** I’m focusing on growing the community, learning from real users, and making practical trading tools more accessible.
-
-**Stack:** React · TanStack Start · Atlas · Deriv API · TradingView Lightweight Charts · Cloudflare
-
-### [MindGuard](https://play.google.com/store/apps/details?id=com.mindguard.app)
-An Android content-filtering application using local DNS decisions and Android VPN APIs to block configured harmful domains without TLS inspection or browsing-content telemetry.
-
-**Stack:** Flutter · Dart · Kotlin · Android VpnService · DNS filtering
-
-### [Sauti Ya Jamii Media](https://sautiyajamiimedia.co.ke/)
-A community-focused media initiative built around the principle **“We Amplify Voices.”**
-
-### [Resu-Me-A-Job](https://resu-me-a-job.pages.dev/)
-A free, AI-assisted resume and cover-letter builder designed to help people create polished, professional application documents. It includes live previews, editable AI writing improvements powered by Google Gemini, and PDF export. The project is currently under active development; its source repository will be made public when it is ready.
-
-**Stack:** React · TypeScript · Vite · Google Gemini API · Cloudflare Pages · Pages Functions · jsPDF
-
-> Potential employers: if the resume I sent you looks polished, just know I built it using this tool. Yes, I use my own products.
-
----
-
-## The Footprint Behind My Free Software
-
-<p align="center">
-  <img src="./siteimage.png" alt="The footprint mark I use across my free software projects" width="160" />
+<p>
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=111827" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+  <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
-That footprint is more than a logo. It represents the mark I hope to leave on the world through technology.
+**What I optimise for:** useful over flashy · security from the start · owning the path from idea to deployment.
 
-When I create and share software for free, I want it to be a practical way of giving back: a tool that helps someone solve a problem, opens a door, or inspires another person to build something of their own. I believe meaningful technology should not only be measured by what it earns, but also by the people it reaches and the problems it helps solve.
+## Credentials
 
-That is why I use this footprint across the free software I create. Every project is another small step toward the legacy I want to leave in tech — **useful work, shared value, and a positive impact that continues beyond me.**
+I maintain **20+ certifications and credentials** across cybersecurity, cloud, data, software, blockchain, and leadership.
 
-**I’m not just trying to publish code. I’m trying to leave a mark.**
+<a href="https://www.credly.com/users/isack-ochieng-omondi/badges#credly"><img alt="Browse verified credentials on Credly" src="https://img.shields.io/badge/Explore%20verified%20credentials-Credly-1F6FEB?style=for-the-badge&logo=credly&logoColor=white" /></a>
+<a href="https://isack-ochieng.pages.dev/certifications"><img alt="Certifications on portfolio" src="https://img.shields.io/badge/Certification%20index-Portfolio-111827?style=for-the-badge&logo=readme&logoColor=white" /></a>
 
----
+## Find me
 
-## Selected Certifications & Verification
+<a href="https://isack-ochieng.pages.dev">Portfolio</a> · <a href="https://www.linkedin.com/in/isack-ochieng">LinkedIn</a> · <a href="https://github.com/isack-ochieng">GitHub</a>
 
-I maintain **20+ certifications and professional credentials** across cybersecurity, software development, data, blockchain, leadership, and emerging technology.
-
-| Credential | Issuer | Verification |
-|---|---|---|
-| **Ethical Hacker** | Cisco in association with ParoCyber | [Credly](https://www.credly.com/badges/9c9899c6-c664-44dc-b609-e256eed4d1a9/public_url) |
-| **Cyber Threat Management** | Cisco Networking Academy | [Credly](https://www.credly.com/badges/7a67b538-8de0-4ca0-a533-181a26463edd/public_url) |
-| **Introduction to Cybersecurity** | Cisco Networking Academy | [Credly](https://www.credly.com/badges/511b4a69-3fd4-4585-a142-bae7605dcdba/public_url) |
-| **Cybersecurity Masterclass** | InfoSec Institute | [Verify](https://cursa.app/en/my-certificate/certc676a55b0f0a314c4a65d5bc9c010d31) |
-| **Cybersecurity and Emerging Technologies** | ICT Authority of Kenya — Cyber Shujaa | [Verify](https://training.smartacademy.go.ke/certificate-verification/?certificate_id=ICTA-1766148663-5632-37843) |
-| **Fundamentals to Cloud Infrastructure** | Pathway Technologies | [Verify](https://training.smartacademy.go.ke/certificate-verification/?certificate_id=ICTA-1768306765-5649-37843) |
-| **Data Analytics Training** | ICT Authority of Kenya — DataBreed Africa | [Verify](https://training.smartacademy.go.ke/certificate-verification/?certificate_id=ICTA-1764571302-5453-37843) |
-| **Effective Leadership** | HP LIFE | [Verify](https://www.life-global.org/certificate/fa082e87-702f-49bb-8605-2673f95aedad) |
-| **Police and Human Rights** | Amnesty International | [Issuer](https://www.amnesty.org/en/petition/end-protest-massacres-in-iran/) |
-| **Introduction to Amnesty International** | Amnesty International | [Issuer](https://www.amnesty.org) |
-| **Full-Stack Development** | Edureka | Certificate available on portfolio |
-| **Blockchain Development** | One Dev | Certificate available on portfolio |
-
-**Credential hub:** [View my Credly profile](https://www.credly.com/users/isack-ochieng-omondi/badges#credly) · [View all certifications on my portfolio](https://isack-ochieng.pages.dev/certifications)
-
----
-
-## Technology
-
-### Languages
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-
-### Frameworks & Platforms
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TanStack_Start-EF4444?style=flat-square&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-
-### Cloud & Tooling
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
----
-
-## Security Focus
-
-My security work is centered on **authorized defensive security**:
-
-- Penetration testing
-- Web application security
-- Threat analysis
-- Security architecture
-- Vulnerability assessment
-- Secure software development
-- Network and endpoint security
-- Cybersecurity automation
-
----
-
-## GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=isack-ochieng&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub statistics" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=isack-ochieng&hide_border=true&theme=transparent" alt="GitHub streak" />
-</p>
-
----
-
-## Beyond Code
-
-I am interested in technology, leadership, cybersecurity, innovation, human rights, African development, and the role of engineering in solving practical problems.
-
----
-
-## Connect
-
-- **Portfolio:** https://isack-ochieng.pages.dev
-- **Credly:** https://www.credly.com/users/isack-ochieng-omondi/badges#credly
-- **LinkedIn:** https://www.linkedin.com/in/isack-ochieng
-- **GitHub:** https://github.com/isack-ochieng
-
-<p align="center">
-  <sub>Thank you for stopping by, next time feel free to reach out  .</sub>
-</p>
+<sub>Built with intention, from Kenya.</sub>
