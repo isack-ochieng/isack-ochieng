@@ -111,8 +111,19 @@ A digital publishing platform with a CMS, AI-assisted news polishing, and SEO-fo
 ## GitHub, in numbers
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=isack-ochieng&amp;show_icons=true&amp;hide_border=true&amp;rank_icon=github&amp;theme=gruvbox" alt="Isack's GitHub statistics" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=isack-ochieng&amp;hide_border=true&amp;theme=gruvbox" alt="Isack's GitHub contribution streak" />
+  <img width="49%" src="./profile/stats.svg" alt="Isack's GitHub statistics" />
+  <img width="49%" src="./profile/top-langs.svg" alt="Most used programming languages" />
+  <img width="49%" src="./profile/streak.svg" alt="Isack's GitHub contribution streak" />
+</div>
+
+### Contribution activity
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile/github-snake.svg" />
+    <img src="./profile/github-snake.svg" alt="Animated view of Isack's GitHub contribution activity" width="100%" />
+  </picture>
 </div>
 
 ## Certifications &amp; credentials
