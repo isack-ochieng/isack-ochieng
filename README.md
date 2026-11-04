@@ -116,15 +116,6 @@ A digital publishing platform with a CMS, AI-assisted news polishing, and SEO-fo
   <img width="49%" src="./profile/streak.svg" alt="Isack's GitHub contribution streak" />
 </div>
 
-### Contribution activity
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./profile/github-snake.svg" />
-    <img src="./profile/github-snake.svg" alt="Animated view of Isack's GitHub contribution activity" width="100%" />
-  </picture>
-</div>
 
 ## Certifications &amp; credentials
 
